@@ -1,0 +1,10 @@
+title: "NetDevTechBytes"
+description: "Tech blogs on Networking, Coding Patterns, and More."
+url: "https://your-username.github.io"
+baseurl: ""
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-feed
+  - jekyll-sitemap
