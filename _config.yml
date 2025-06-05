@@ -38,12 +38,21 @@ collections:
     permalink: /:path/
 
 # Defaults
+#defaults:
+ # - scope:
+  #    path: "leetcode"
+   #   type: "pages"
+    #values:
+     # layout: single
 defaults:
   - scope:
-      path: "leetcode"
-      type: "pages"
+      path: ""
     values:
       layout: single
+      author_profile: true
+      header:
+        overlay_image: /assets/images/header.jpg
+      head_custom: _includes/head-custom.html
 
 #Link  CSS in _config.yml
 #minimal_mistakes_skin: "default"
