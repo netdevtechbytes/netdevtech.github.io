@@ -20,3 +20,13 @@ navigation:
     url: "/leetcode/"
   - title: "Networking"
     url: "/networking/"
+
+# Author    
+author:
+  name: "Your Name"
+  bio: "Network Engineer & Tech Enthusiast | Solving problems through code."
+  location: "Global"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/netdevtechbytes"
