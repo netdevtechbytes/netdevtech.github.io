@@ -13,5 +13,5 @@ Explore high-quality content around:
 
 📂 Visit:  
 👉 [Blog](/blog/)  
-👉 [Coding Problems](/leetcode/)  
+👉 [Coding](/leetcode/)  
 👉 [Networking](/networking/)
