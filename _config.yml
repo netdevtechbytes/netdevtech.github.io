@@ -46,7 +46,7 @@ defaults:
       layout: single
 
 #Link  CSS in _config.yml
-minimal_mistakes_skin: "default"
+#minimal_mistakes_skin: "default"
 sass:
   style: compressed
   load_paths:
