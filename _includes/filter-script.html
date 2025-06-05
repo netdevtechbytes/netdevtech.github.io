@@ -1,0 +1,17 @@
+<script>
+function filterTable() {
+  const difficulty = document.getElementById('difficulty-filter').value;
+  const category = document.getElementById('category-filter').value;
+  const rows = document.querySelectorAll('#problem-table tr');
+
+  rows.forEach(row => {
+    const rowDifficulty = row.getAttribute('data-difficulty');
+    const rowCategory = row.getAttribute('data-category');
+
+    const matchesDifficulty = !difficulty || rowDifficulty === difficulty;
+    const matchesCategory = !category || rowCategory === category;
+
+    row.style.display = matchesDifficulty && matchesCategory ? '' : 'none';
+  });
+}
+</script>
