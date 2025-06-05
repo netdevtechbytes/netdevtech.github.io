@@ -36,3 +36,12 @@ collections:
   pages:
     output: true
     permalink: /:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: "leetcode"
+      type: "pages"
+    values:
+      layout: single
+
