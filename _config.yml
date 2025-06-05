@@ -16,7 +16,7 @@ navigation:
     url: "/"
   - title: "Blog"
     url: "/blog/"
-  - title: "Coding Problems"
+  - title: "Coding"
     url: "/leetcode/"
   - title: "Networking"
     url: "/networking/"
