@@ -9,3 +9,14 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-include-cache
+
+# Navigation
+navigation:
+  - title: "Home"
+    url: "/"
+  - title: "Blog"
+    url: "/blog/"
+  - title: "Coding Problems"
+    url: "/leetcode/"
+  - title: "Networking"
+    url: "/networking/"
