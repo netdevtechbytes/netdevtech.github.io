@@ -9,6 +9,13 @@ Welcome to the curated list of **LeetCode Problems** categorized by **patterns**
 
 ---
 
+## 🔁 Hash Map
+
+| Name     | LeetCode Link | Solution Page |
+|----------|---------------|----------------|
+| Two Sum  | [Problem](https://leetcode.com/problems/two-sum/) | [Solution](/leetcode/two-sum/) |
+
+
 ## 🔁 Sliding Window
 
 | Name | LeetCode Link | YouTube Link |
