@@ -81,3 +81,5 @@
     });
   }
 </script>
+
+{% include filter-script.html %}
