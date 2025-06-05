@@ -53,3 +53,6 @@ sass:
     - _sass
     - assets/css
 
+# Include section
+include:
+  - _includes/head-custom.html
