@@ -1,6 +1,6 @@
 title: "NetDevTechBytes"
 description: "Tech blogs on Networking, Coding Patterns, and More."
-url: "https://your-username.github.io"
+url: "https://netdevtech.github.io"
 baseurl: ""
 remote_theme: "mmistakes/minimal-mistakes"
 plugins:
